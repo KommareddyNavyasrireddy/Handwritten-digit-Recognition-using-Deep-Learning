@@ -1,4 +1,4 @@
-# Handwritten-digit-Recognition-using-Deep-Learning
+# Handwritten-digit-Recognition-by comparing ML &-Deep-Learning Algorithms
 Requirements:
   numpy,
  Tensorflow,
@@ -10,4 +10,4 @@ Requirements:
   train.csv and
   test.csv
  
-I got 98% accuracy for Handwritten digit recognition using Convolutional neural networks.So I conclude Deep Learning approach is good in Hanwritten digit Recognition project. 
+I compared this model by using Machine Learning algorithms such as SVM,Decision tree classifier and Deep learning techniques like Convolution Neural Networks with the help of Handwritten MNIST Digits.So by comparing with some parameters like Accuracy and Timelapse we choose CNN is the best approach to implement the Digit recognition.
